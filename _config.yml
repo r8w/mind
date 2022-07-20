@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: rishi's notes!
 description: Wiki For Life!
-baseurl: "/notes" # the subpath of your site, e.g. /blog
+baseurl: "/mind" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
