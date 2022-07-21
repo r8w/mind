@@ -18,7 +18,7 @@ __*I plan to create awesomeness. I don't know where I'm heading, but I'm thrille
 
 ---
 
-<center><img width="40%" src="media/stickman-desk.png"></center>
+<center><img width="50%" src="media/stickman-desk.png"></center>
 
 ---
 
