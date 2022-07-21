@@ -12,13 +12,17 @@ permalink: /
 __*I plan to create awesomeness. I don't know where I'm heading, but I'm thrilled. I'm a bit exhausted.*__
 
 
-[Wiki @ Main](https://r8w.github.io/){: .btn .mr-2 } [Wiki @ Personal](https://r8w.github.io/personal){: .btn .btn .mr-2 }
+[Wiki @ Main](https://r8w.github.io/){: .btn .mr-2 } [Wiki @ Study](https://r8w.github.io/notes/){: .btn .btn .mr-2 }
 
 {: .fs-6 .fw-300  }
 
 ---
 
-<center><img width="50%" src="media/stickman-desk.png"></center>
+<center><img width="25%" src="media/war.png"> <img width="30%" src="media/clam.png"></center>
+
+__*Psychological Warfare ---<< >> --- Reality vs Ability*__
+{: .text-center}
+
 
 ---
 
