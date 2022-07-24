@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: rishi's notes!
+title: rishi's mind!
 description: Wiki For Life!
 baseurl: "/mind" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,8 +35,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Notes @ GitHub":
-    - "//github.com/r8w/notes"
+  "Mind @ GitHub":
+    - "//github.com/r8w/mind"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2022 Rishi Giri"
