@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Competitive Coding
+title: Introspection
 nav_order: 2
 has_children: true
-permalink: /docs/coding
+permalink: /docs/introspection
 ---
 
-# Competitive Coding
+# Introspection
 
 
 *__Think fast. Think right!__*
