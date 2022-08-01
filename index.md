@@ -39,7 +39,7 @@ This wiki represents a part of my life that I'm comfortably willing to share wit
 
 Through words, I plan to fix myself and be a better person. I do not prefer discussing my life with anyone, but I find peace in breaking down my thoughts. It gives me a sense of perspective and time to think. No, I'm not an escapist. I don't live in my ideological echo chamber. I've realized that one should do what works best for them, but the trick is not to pretend that the method you've picked is merely an illusion rather than a solution.
 
-On the practical side of this quest of conquering my battle emotions and making peace with a few of them, I remain neutral and unaware of how triumphant I will be. Life is about figuring out what works best for you and befriending the process that makes you realize the essence of reality.
+On the practical side of this quest of conquering my battle with emotions and making peace with a few of them, I remain neutral and unaware of how triumphant I will be. Life is about figuring out what works best for you and befriending the process that makes you realize the essence of reality.
 
 *Let's see what happens!*
 
